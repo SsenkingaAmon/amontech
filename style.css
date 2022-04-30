@@ -1,0 +1,45 @@
+.navbar-nav{
+    margin-left:auto;
+}
+.dropdown-menu a{
+    text-decoration: none;
+}
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+    font-weight: bold;
+  }
+ .imagestatic{
+     background-color: dimgrey;
+     height: 550px;
+     background-image: url(images/software-development.png);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     overflow: hidden;
+      }
+ .text{
+text-align: center;
+padding-top:13% ;
+
+ }
+ .about{
+     padding-top: 10px;
+     padding-bottom: 10px;
+ }
+ ul{
+     list-style: none;
+ }
+ .footer{
+     background-color: rgb(56, 56, 68);
+     color: white;
+     padding: 20px;
+     bottom: 0px;
+     
+ }
+ span i{
+    padding: 15px;
+    border: 1px solid blanchedalmond;
+    border-radius: 100%;
+    background-color: cadetblue;
+ }
