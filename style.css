@@ -9,6 +9,30 @@ body {
   overflow-x: hidden !important;
 }
 
+ }
+ .about{
+     padding-top: 10px;
+     padding-bottom: 10px;
+ }
+ ul{
+     list-style: none;
+ }
+ .footer{
+     background-color: rgb(56, 56, 68);
+     color: white;
+     padding: 20px;
+     bottom: 0px;
+     
+ }
+ span i{
+    padding: 15px;
+    border: 1px solid blanchedalmond;
+    border-radius: 100%;
+    background-color: cadetblue;
+ }
+ .carousel-item{
+     height: 34rem;
+ }
 .navbar-nav {
   margin-left: auto;
 }
@@ -20,7 +44,7 @@ body {
   padding-right: 30px;
   font-weight: bold;
 }
-.imagestatic {
+/* .imagestatic {
   background-color: dimgrey;
   height: auto;
   width: 100%;
@@ -28,7 +52,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  overflow: hidden;
+  overflow: hidden; */
 }
 .text {
   text-align: center;
