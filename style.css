@@ -46,14 +46,14 @@ body {
   padding-right: 30px;
   font-weight: bold;
 }
-.imagestatic {
+/* .imagestatic {
   background-color: dimgrey;
   height: 550px;
   background-image: url(images/software-development.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  overflow: hidden;
+  overflow: hidden; */
 }
 .text {
   text-align: center;
