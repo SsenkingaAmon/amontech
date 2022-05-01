@@ -22,7 +22,8 @@ body {
 }
 .imagestatic {
   background-color: dimgrey;
-  height: 550px;
+  height: auto;
+  width: 100%;
   background-image: url(images/software-development.png);
   background-repeat: no-repeat;
   background-position: center;
