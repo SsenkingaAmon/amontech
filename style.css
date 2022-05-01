@@ -43,3 +43,6 @@ padding-top:13% ;
     border-radius: 100%;
     background-color: cadetblue;
  }
+ .carousel-item{
+     height: 34rem;
+ }
